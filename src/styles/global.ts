@@ -26,7 +26,6 @@ export const GlobalStyle = createGlobalStyle`
         }
     }
 
-
     body {
         background-color:var(--background);
         -webkit-font-smoothing: antaliased;
